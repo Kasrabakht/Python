@@ -1,12 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+This project will read in and analyze actual rain data from NOAA for the Seattle Area and 
+compute average daily rain total on monthly basis.
