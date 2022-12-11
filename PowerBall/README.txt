@@ -1,0 +1,1 @@
+This program will analyzes the powerball data and determines the most frequently picked Powerball numbers and show a show a bar chart
